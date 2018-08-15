@@ -1,0 +1,9 @@
+﻿  Origem.c
+c:\users\chimarrao\desktop\uteis\programação\c\megasena\megasena\origem.c(9): warning C4013: 'time' indefinido; assumindo extern retornando int
+c:\users\chimarrao\desktop\uteis\programação\c\megasena\megasena\origem.c(29): warning C4013: 'print' indefinido; assumindo extern retornando int
+  Gerando código
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  megaSena.vcxproj -> C:\Users\Chimarrao\Desktop\Uteis\Programação\C\megaSena\x64\Release\megaSena.exe
