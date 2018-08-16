@@ -1,0 +1,5 @@
+﻿  Origem.c
+c:\users\chimarrao\desktop\uteis\programação\c\megasena\megasena\origem.c(8): warning C4013: 'time' indefinido; assumindo extern retornando int
+c:\users\chimarrao\desktop\uteis\programação\c\megasena\megasena\origem.c(31): warning C4101: 'base': variável local não referenciada
+c:\users\chimarrao\desktop\uteis\programação\c\megasena\megasena\origem.c(42): warning C4101: 'c': variável local não referenciada
+  megaSena.vcxproj -> C:\Users\Chimarrao\Desktop\Uteis\Programação\C\megaSena\x64\Debug\megaSena.exe
