@@ -4,6 +4,8 @@
 #include <conio.h>
 #include <windows.h>
 
+//Codigo escrito e rodado no Visual Studio
+
 void baseResult(int elem, int elin) {
 	int i, a;
 	int base[61], result[61];
@@ -53,7 +55,7 @@ int main() {
 		}
 
 		printf("Quantos jogos voce deseja ? ");
-		scanf_s("%d", &qt); //Visual Studio n„o me deixou usar o scanf() comum :/
+		scanf_s("%d", &qt); //Visual Studio n√£o me deixou usar o scanf() comum :/
 	} while (qt < 1);
 
 	do {
